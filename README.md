@@ -332,16 +332,6 @@ npm start
 ✅ Conversation management
 ✅ Code syntax highlighting
 
-## 📝 License
-
-Private and Proprietary - All Rights Reserved
-
-## 🤝 Support
-
-- Check USER_GUIDE.txt for detailed instructions
-- Review IMPLEMENTATION_COMPLETE.txt
-- Check GitHub issues
-- Create new issue with details
 
 ---
 
